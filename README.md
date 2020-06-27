@@ -1,3 +1,3 @@
 # hello-world
-hello-worldh
+hello-world
 goodbye-world
